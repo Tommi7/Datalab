@@ -1,3 +1,3 @@
-# Study
+Datalab
 Onze github voor Datalab
 
